@@ -1,2 +1,2 @@
-# mcts_bus_stop_analysis
-Analysis of MCTS bus stops.
+# Milwaukee County Transit System (MCTS) Bus Stop Amenity analysis
+The Milwaukee County Transit System (MCTS) is an expansive transit system, covering almost the entirety of Milwaukee County in a generally grid-like fashion. MCTS has a high level of service, with this being improved lately with rebalance of the system completed in 2021. However, MCTS lacks consistent access to amenities at every bus stop. All stops have appropriate signage, but many lack benches and/or shelters. One aim of this project is to use some GFTS data to identify the stops in the MCTS system, and then begin work on manually annotating them with the amenities that are found there.
